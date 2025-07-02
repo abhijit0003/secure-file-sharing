@@ -77,7 +77,7 @@ When creating requests in Postman, sometimes:
 
 This is **only a cosmetic issue** and **does not affect the functionality** of the exported Postman collection.
 
-✅ In your exported `.postman_collection.json`, the correct method (`POST`, `GET`, etc.) is saved internally — so the API behavior is accurate.
+✅ In the exported `.postman_collection.json`, the correct method (`POST`, `GET`, etc.) is saved internally — so the API behavior is accurate.
 
 ---
 
